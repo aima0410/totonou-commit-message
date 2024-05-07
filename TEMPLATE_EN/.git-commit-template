@@ -1,0 +1,18 @@
+
+# ==== Template ====
+# <Prefix> <:Emoji:> <#Issue Number> <Title(What to do)>
+# <Description(Additional details for the Title)>
+
+# ==== Choices for Prefix and Emoji ====
+# feat :sparkles: Adding or changing app features
+# style :lipstick: Adding or changing UI (including animations)
+# docs :memo: Updating internal docs, config files, UI text
+# fix :bug: Fixing bugs
+# perf :zap: Improving performance, e.g., rendering speed
+# refactor :recycle: Refactoring code
+# test :green_heart: Adding or modifying tests, confirming operation
+# dep :package: Adding packages or libraries
+# delete :wastebasket: Deleting code or various files
+# :tada: initial commit! Used only once during Initial commit
+# deploy :rocket:　Deploying to production
+# chore :building_construction: Other miscellaneous chores
