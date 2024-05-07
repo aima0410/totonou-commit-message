@@ -1,0 +1,17 @@
+
+# ==== Template ====
+# <Prefix> <:Emoji:> <#Issue Number> <Title 何をするのか>
+# <Description Titleの補足事項があれば>
+# ==== Choices for Prefix and Emoji ====
+# アプリ機能の追加や変更 feat :sparkles:
+# UIの追加や変更（アニメーションも含む） style :lipstick:
+# 内部ドキュメント、設定ファイル、UIテキストの更新 docs :memo:
+# バグ修正 fix :bug:
+# 表示速度などのパフォーマンス改善 perf :zap:
+# リファクタリング refactor :recycle:
+# 動作確認、テストコードの追加や修正 test :green_heart:
+# パッケージやライブラリの追加 dep :package:
+# コードや各種ファイルの削除 delete :wastebasket:
+# 最初のコミット :tada: initial commit!
+# 本番環境への公開 deploy :rocket:
+# その他の雑用全般 chore :building_construction:
