@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
+
 # macOS-specific files
-=======
-# misc
->>>>>>> Stashed changes
 .DS_Store
 *.pem
 
